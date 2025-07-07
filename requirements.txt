@@ -1,0 +1,11 @@
+# REQUIREMENTS 
+
+pandas
+numpy
+matplotlib
+plotly
+sklearn
+tensorflow
+keras_tuner
+kagglehub
+lightgbm
